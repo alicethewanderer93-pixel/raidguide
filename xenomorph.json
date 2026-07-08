@@ -1,0 +1,15 @@
+{
+  "id": "xenomorph",
+  "name": "Xenomorph",
+  "rarity": "Epic",
+  "role": "Attack",
+  "tier": "A",
+  "ratings": {
+    "dragon": 4,
+    "clanBoss": 4
+  },
+  "gear": [
+    "Speed",
+    "Perception"
+  ]
+}

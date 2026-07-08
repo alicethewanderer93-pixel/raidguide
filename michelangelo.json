@@ -1,0 +1,15 @@
+{
+  "id": "michelangelo",
+  "name": "Michelangelo",
+  "rarity": "Legendary",
+  "role": "Defense",
+  "tier": "A",
+  "ratings": {
+    "dragon": 4,
+    "clanBoss": 4
+  },
+  "gear": [
+    "Speed",
+    "Perception"
+  ]
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "kael",
+    "name": "Kael",
+    "rarity": "Rare",
+    "role": "Attack",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "athel",
+    "name": "Athel",
+    "rarity": "Rare",
+    "role": "Attack",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "elhain",
+    "name": "Elhain",
+    "rarity": "Rare",
+    "role": "Attack",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "galek",
+    "name": "Galek",
+    "rarity": "Rare",
+    "role": "Attack",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "frozen_banshee",
+    "name": "Frozen Banshee",
+    "rarity": "Rare",
+    "role": "Attack",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "diabolist",
+    "name": "Diabolist",
+    "rarity": "Rare",
+    "role": "Support",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "heiress",
+    "name": "Heiress",
+    "rarity": "Rare",
+    "role": "Support",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "mystic_hand",
+    "name": "Mystic Hand",
+    "rarity": "Rare",
+    "role": "Support",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "dark_athel",
+    "name": "Dark Athel",
+    "rarity": "Epic",
+    "role": "Attack",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "yakarl",
+    "name": "Yakarl the Scourge",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "tuhanarak",
+    "name": "Tuhanarak",
+    "rarity": "Legendary",
+    "role": "Support",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "skeletor",
+    "name": "Skeletor",
+    "rarity": "Legendary",
+    "role": "Support",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "ezio",
+    "name": "Ezio Auditore",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "xenomorph",
+    "name": "Xenomorph",
+    "rarity": "Epic",
+    "role": "Attack",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "doomscreech",
+    "name": "Doomscreech",
+    "rarity": "Rare",
+    "role": "Support",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "michelangelo",
+    "name": "Michelangelo",
+    "rarity": "Legendary",
+    "role": "Defense",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "apothecary",
+    "name": "Apothecary",
+    "rarity": "Rare",
+    "role": "Support",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "warmaiden",
+    "name": "Warmaiden",
+    "rarity": "Rare",
+    "role": "Attack",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "coldheart",
+    "name": "Coldheart",
+    "rarity": "Rare",
+    "role": "Attack",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  },
+  {
+    "id": "bellower",
+    "name": "Bellower",
+    "rarity": "Rare",
+    "role": "Support",
+    "tier": "A",
+    "ratings": {
+      "dragon": 4,
+      "clanBoss": 4
+    },
+    "gear": [
+      "Speed",
+      "Perception"
+    ]
+  }
+]

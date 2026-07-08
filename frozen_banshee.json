@@ -1,0 +1,15 @@
+{
+  "id": "frozen_banshee",
+  "name": "Frozen Banshee",
+  "rarity": "Rare",
+  "role": "Attack",
+  "tier": "A",
+  "ratings": {
+    "dragon": 4,
+    "clanBoss": 4
+  },
+  "gear": [
+    "Speed",
+    "Perception"
+  ]
+}

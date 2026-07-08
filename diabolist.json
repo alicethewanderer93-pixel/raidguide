@@ -1,0 +1,15 @@
+{
+  "id": "diabolist",
+  "name": "Diabolist",
+  "rarity": "Rare",
+  "role": "Support",
+  "tier": "A",
+  "ratings": {
+    "dragon": 4,
+    "clanBoss": 4
+  },
+  "gear": [
+    "Speed",
+    "Perception"
+  ]
+}

@@ -1,0 +1,1 @@
+fetch('data/champions.json').then(r=>r.json()).then(data=>{const c=document.getElementById('champions');data.forEach(x=>c.innerHTML+=`<div class='card'><h3>${x.name}</h3><p>${x.rarity} ${x.role}</p></div>`);});

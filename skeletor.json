@@ -1,0 +1,15 @@
+{
+  "id": "skeletor",
+  "name": "Skeletor",
+  "rarity": "Legendary",
+  "role": "Support",
+  "tier": "A",
+  "ratings": {
+    "dragon": 4,
+    "clanBoss": 4
+  },
+  "gear": [
+    "Speed",
+    "Perception"
+  ]
+}

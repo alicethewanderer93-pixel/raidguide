@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Speed",
+    "pieces": 2,
+    "effect": "+12% SPD"
+  },
+  {
+    "name": "Perception",
+    "pieces": 2,
+    "effect": "+40 ACC +5% SPD"
+  },
+  {
+    "name": "Lifesteal",
+    "pieces": 4,
+    "effect": "Heal 30% of damage dealt"
+  },
+  {
+    "name": "Savage",
+    "pieces": 4,
+    "effect": "Ignore 25% DEF"
+  },
+  {
+    "name": "Lethal",
+    "pieces": 4,
+    "effect": "Ignore DEF + Crit Rate"
+  },
+  {
+    "name": "Regeneration",
+    "pieces": 4,
+    "effect": "Heal each turn"
+  },
+  {
+    "name": "Stoneskin",
+    "pieces": 4,
+    "effect": "Protected status"
+  },
+  {
+    "name": "Cruel",
+    "pieces": 2,
+    "effect": "Ignore 5% DEF"
+  }
+]

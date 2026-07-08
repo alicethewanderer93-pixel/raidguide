@@ -1,0 +1,15 @@
+{
+  "id": "dark_athel",
+  "name": "Dark Athel",
+  "rarity": "Epic",
+  "role": "Attack",
+  "tier": "A",
+  "ratings": {
+    "dragon": 4,
+    "clanBoss": 4
+  },
+  "gear": [
+    "Speed",
+    "Perception"
+  ]
+}

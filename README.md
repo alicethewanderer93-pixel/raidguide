@@ -1,3 +1,2 @@
-# Raid Legends Guide
-
-Starter website for Cloudflare Pages.
+# RaidLegendsGuide
+Fan Made Raid Shadow Legends Guide

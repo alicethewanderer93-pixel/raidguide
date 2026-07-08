@@ -1,0 +1,15 @@
+{
+  "id": "ezio",
+  "name": "Ezio Auditore",
+  "rarity": "Legendary",
+  "role": "Attack",
+  "tier": "A",
+  "ratings": {
+    "dragon": 4,
+    "clanBoss": 4
+  },
+  "gear": [
+    "Speed",
+    "Perception"
+  ]
+}
