@@ -1,0 +1,23 @@
+## Optimizer Config — Krok’mar the Devourer
+- **Hero:** Krok’mar the Devourer
+- **Date:** 2026-07-05
+- **Optimizer version:** 3
+- **Support ID:** 395218
+- **Username:** n/a
+- Optimise for highest score
+- ⚠️ Glyphs: Exclude all glyphs
+- Include equipped artifacts
+- Include required artifact sets regardless of Lock Status
+- ⚠️ Include locked artifacts!
+- Include level 0 and higher artifacts
+- Exclude HP and Atk and Res and Def stats on Chest
+- Exclude HP and Def and Atk and C.Dmg stats on Gloves
+- Exclude HP and Atk and Def stats on Boots
+- Speed has a priority of 1
+- Attack has a priority of 1
+- Defence has a priority of 2
+- Health has a priority of 2
+- Critical Rate should have a minimum of 100 and has a priority of 1
+- Critical Damage has a priority of 2
+- Accuracy has a priority of 1
+- Resistance has a priority of 2
